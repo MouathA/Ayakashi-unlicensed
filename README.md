@@ -1,8 +1,5 @@
 # Ayakashi-unlicensed
 Ayakashi 2.5
-<p align="left">
-    <a href="https://github.com/MouathA/Ayakashi-unlicensed/releases/tag/unlicensed"><img alt="Total downloads"               src="https://github.com/MouathA/Ayakashi-unlicensed/releases/tag/unlicensed"></a>
-</p>
 ---
 > screenshot
 > 
